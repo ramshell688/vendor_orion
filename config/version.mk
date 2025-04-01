@@ -1,8 +1,8 @@
 PRODUCT_VERSION_MAJOR = 15
-PRODUCT_VERSION_MINOR = 1
+PRODUCT_VERSION_MINOR = 2
 
 # Increase OrionOS Version with each major release.
-ORION_VERSION := Hydroxide
+ORION_VERSION := Aquatine
 ORION_BUILD_TYPE ?= Unofficial
 ORION_MAINTAINER ?= Unknown
 
